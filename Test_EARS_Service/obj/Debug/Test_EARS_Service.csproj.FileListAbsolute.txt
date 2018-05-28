@@ -1,0 +1,6 @@
+C:\Users\Zubair Mujeeb\Desktop\001_Upwork\001_EARS\ExecuteAutomationReportingSystem-master\ExecuteAutomationReportingSystem-master\Test_EARS_Service\bin\Debug\Test_EARS_Service.exe.config
+C:\Users\Zubair Mujeeb\Desktop\001_Upwork\001_EARS\ExecuteAutomationReportingSystem-master\ExecuteAutomationReportingSystem-master\Test_EARS_Service\bin\Debug\Test_EARS_Service.exe
+C:\Users\Zubair Mujeeb\Desktop\001_Upwork\001_EARS\ExecuteAutomationReportingSystem-master\ExecuteAutomationReportingSystem-master\Test_EARS_Service\bin\Debug\Test_EARS_Service.pdb
+C:\Users\Zubair Mujeeb\Desktop\001_Upwork\001_EARS\ExecuteAutomationReportingSystem-master\ExecuteAutomationReportingSystem-master\Test_EARS_Service\obj\Debug\Test_EARS_Service.csprojResolveAssemblyReference.cache
+C:\Users\Zubair Mujeeb\Desktop\001_Upwork\001_EARS\ExecuteAutomationReportingSystem-master\ExecuteAutomationReportingSystem-master\Test_EARS_Service\obj\Debug\Test_EARS_Service.exe
+C:\Users\Zubair Mujeeb\Desktop\001_Upwork\001_EARS\ExecuteAutomationReportingSystem-master\ExecuteAutomationReportingSystem-master\Test_EARS_Service\obj\Debug\Test_EARS_Service.pdb
